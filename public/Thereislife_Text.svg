@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="258.41" viewBox="0 0 200 258.41">
+  <g id="Group_1" data-name="Group 1" transform="translate(-114 -36.59)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(114.394 36.59)">
+      <g id="Layer_1" data-name="Layer 1">
+        <g id="noun-bird-1183752" transform="translate(24.128 48.495)">
+          <path id="Path_1" data-name="Path 1" d="M251.535,213.672c-5.489.458-10.968.828-16.478,1.1-7.83-9.953-21.683-12.616-29.148-12.616-13.791,0-29.292,7.436-40.114,28.287-15.744-4.071-31.866-10.212-42.565-21.849a87.306,87.306,0,0,0-1.053,13.513c0,20.064,5.961,36.071,21.182,48.476-12.383,9.356-27.412,12.9-42.779,14.2C120,297.356,143.661,303.7,167.129,303.7c59.731,0,73.721-52.681,73.721-70.876a36.856,36.856,0,0,0-.24-4.3,119.076,119.076,0,0,1,10.939-14.851Zm-32.687,16.276a6.076,6.076,0,1,1,6.076-6.076A6.076,6.076,0,0,1,218.848,229.948Z" transform="translate(-100.58 -202.16)" fill="#43d5db"/>
+        </g>
+        <g id="Path_2" data-name="Path 2">
+          <path id="Path_1-2" data-name="Path 1" d="M99.607,0A99.606,99.606,0,1,1,0,99.6,99.6,99.6,0,0,1,99.607,0Z" fill="none"/>
+          <path id="Path_2-2" data-name="Path 2" d="M195.209,71.56a18.951,18.951,0,0,1-7.981,4.2,91.018,91.018,0,1,1-16.8-32.912,18.891,18.891,0,0,1,8.122-3.982,99.155,99.155,0,1,0,16.662,32.7Z" fill="#43d5db"/>
+        </g>
+      </g>
+    </g>
+    <text id="There_Is_Life" data-name="There Is Life" transform="translate(114 253)" fill="#19787c" font-size="38" font-family="TimesNewRomanPSMT, Times New Roman" letter-spacing="0.003em"><tspan x="0" y="34">There Is Life</tspan></text>
+  </g>
+</svg>

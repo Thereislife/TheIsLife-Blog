@@ -7,6 +7,8 @@ import Layout, { GradientBackground } from '../components/Layout';
 import ArrowIcon from '../components/ArrowIcon';
 import { getGlobalData } from '../utils/global-data';
 import SEO from '../components/SEO';
+import Payment from '../components/Payment';
+import Servers from '../components/Servers';
 
 export default function Index({ posts, globalData }) {
   return (
@@ -14,10 +16,15 @@ export default function Index({ posts, globalData }) {
       <SEO title={globalData.name} description={globalData.blogTitle} />
       <Header name={globalData.name} />
       <main className="w-full">
-        <h1 className="text-3xl lg:text-5xl text-center mb-12">
+        <h1 className="text-xl lg:text-xl text-center mb-1">
           {globalData.blogTitle}
         </h1>
-        <ul className="w-full">
+        <h1 className="text-center mb-12">
+          وی‌پی‌ان‌های اشتراکی و رایگان
+        </h1>
+        <Payment/>
+        <Servers/>
+        {/* <ul className="w-full">
           {posts.map((post) => (
             <li
               key={post.filePath}
@@ -44,7 +51,7 @@ export default function Index({ posts, globalData }) {
               </Link>
             </li>
           ))}
-        </ul>
+        </ul> */}
       </main>
       <Footer copyrightText={globalData.footerText} />
       <GradientBackground
